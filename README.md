@@ -8,9 +8,9 @@ Entry for the [Rejected Olympic Sports bounty](https://make.fun/bounty/u-motasim
 
 ## The entry
 
-> Synchronized Napping: four athletes, one sofa, zero alarms — gold goes to whoever wakes up last and insists they were 'just resting their eyes.'
+> Synchronized Napping: four athletes, one sofa, zero alarms — gold for the team that wakes in perfect unison and insists they were 'just resting their eyes.'
 
-**144 characters** (limit: 200).
+**156 characters** (limit: 200).
 
 ## How it works
 
